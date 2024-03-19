@@ -1,12 +1,12 @@
 {
 	"FileVersion": 3,
-	"Version": 0,
-	"VersionName": "0.1.0",
-	"SemVersion": "0.1.0",
-	"FriendlyName": "Hover Pack Extensions",
-	"Description": "Hover Pack Extensions. Because anything can be made faster by adding a spoiler!",
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"FriendlyName": "Hover Pack Extensions (Redux)",
+	"Description": "Hover Pack Extensions. We figured out how to overclock this thing!",
 	"Category": "Modding",
-	"CreatedBy": "Hock",
+	"CreatedBy": "Hock, Updated By: Sam Crosscat",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
@@ -19,7 +19,7 @@
 		{
 			"Enabled": true,
 			"Name": "SML",
-			"SemVersion": "^3.0.0",
+			"SemVersion": "^3.7.0",
 			"bIsOptional": false
 		}
 	]

@@ -5,3 +5,4 @@ Adds a Hover Pack MK2 to Tier 8. Hover Pack MK2 has a 50% faster sprint speed an
 Install via [Satisfactory Mod Loader](https://ficsit.app/) -> [Hover Pack Extensions](https://ficsit.app/mod/A6uAgeepHB3NGV).
 
 Icon by Deantendo#4265
+Mod remade by Sam Crosscat (https://crosscat-is.me)

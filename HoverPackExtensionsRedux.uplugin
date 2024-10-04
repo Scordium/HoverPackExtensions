@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
-	"SemVersion": "1.0.0",
+	"VersionName": "1.0.1",
+	"SemVersion": "1.0.1",
 	"FriendlyName": "Hover Pack Extensions (Redux)",
 	"Description": "Hover Pack Extensions. We figured out how to overclock this thing!",
 	"Category": "Modding",
@@ -19,8 +19,9 @@
 		{
 			"Enabled": true,
 			"Name": "SML",
-			"SemVersion": "^3.7.0",
+			"SemVersion": "^3.8.0",
 			"bIsOptional": false
 		}
-	]
+	],
+	"GameVersion": ">=365306"
 }
